@@ -37,6 +37,7 @@
 #     def display(self):
 #         print("Name : Joy")
 # p1 = Person()
+# p1.display()
 # p1.display1()
 # p1.display2()
 
